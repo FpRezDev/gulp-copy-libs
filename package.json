@@ -1,0 +1,25 @@
+{
+  "name": "gulp-copy-libs",
+  "version": "1.0.0",
+  "description": "A simple gulp plugin to copy libs dependencies",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FpRezDev/gulp-copy-libs.git"
+  },
+  "keywords": [
+    "gulp",
+    "copy",
+    "libs",
+    "depencies"
+  ],
+  "author": "FpRezDev <fprez.developer@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FpRezDev/gulp-copy-libs/issues"
+  },
+  "homepage": "https://github.com/FpRezDev/gulp-copy-libs#readme"
+}
