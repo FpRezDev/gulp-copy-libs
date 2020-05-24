@@ -1,8 +1,8 @@
 {
   "name": "gulp-copy-libs",
   "version": "1.0.0",
-  "description": "A simple gulp plugin to copy libs dependencies",
-  "main": "gulpfile.js",
+  "description": "A gulp plugin to copy libs dependencies",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,13 +22,8 @@
     "url": "https://github.com/FpRezDev/gulp-copy-libs/issues"
   },
   "homepage": "https://github.com/FpRezDev/gulp-copy-libs#readme",
-  "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.0",
-    "bootstrap": "^4.5.0",
-    "del": "^5.1.0",
+  "dependencies": {
     "gulp": "^4.0.2",
-    "jquery": "^3.5.1",
-    "merge-stream": "^2.0.0",
-    "popper.js": "^1.16.1"
+    "merge-stream": "^2.0.0"
   }
 }
