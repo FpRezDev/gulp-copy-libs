@@ -9,7 +9,7 @@ Usage
 
 ```js
 // gulpfile.js
-const { copyLibs } = require('./gulp-copy-libs')
+const { copyLibs } = require('gulp-copy-libs')
 const libsConfig = [
   {
     'outputDirectory': 'test-libs/jquery/',
