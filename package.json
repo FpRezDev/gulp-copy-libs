@@ -1,6 +1,6 @@
 {
   "name": "gulp-copy-libs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A gulp plugin to copy libs dependencies",
   "main": "index.js",
   "scripts": {
